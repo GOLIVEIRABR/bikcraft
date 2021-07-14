@@ -4,7 +4,7 @@
 
 Este projeto foi realizado objetivando a criação de um site responsivo/adaptativo levando em consideração boas práticas de UI/UX. Primeiramente, o Wireframe contendo a arquitetura da informação foi construído no Figma. Posterioremente, o projeto foi concluído de acordo com o objetivo final.
 
-A implementação foi realizada utilizando técnicas envolvendo tableless a partir da criação de grids manuais e técnicas de posicionamento envolvendo a tag position, float, dentre outros.
+A implementação foi realizada utilizando técnicas envolvendo tableless a partir da criação de grids manuais e técnicas de posicionamento envolvendo as tags position, float e outros.
 
 ## WireFrame executado no Figma
 
