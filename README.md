@@ -9,8 +9,9 @@ A implementação foi realizada utilizando técnicas envolvendo tableless a part
 ## WireFrame executado no Figma
 
 Clique na imagem para acessar o Figma.
-[![Figma](/readme-img/)](https://www.figma.com/file/bem0umXv3RkRU2fPhRnyMI/bikcraft-wireframe?node-id=0%3A1)
+[![Figma](/readme-img/figma-wire.png)](https://www.figma.com/file/bem0umXv3RkRU2fPhRnyMI/bikcraft-wireframe?node-id=0%3A1)
 
 ## Projeto concluído no Figma
 
 Clique na imagem para acessar o Figma.
+[![Figma](/readme-img/figma-wire.png)](https://www.figma.com/file/Maziql5mSMKFoMc56Sxv5L/bikcraft-design?node-id=0%3A1)
