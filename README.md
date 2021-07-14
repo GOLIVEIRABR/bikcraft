@@ -14,4 +14,4 @@ Clique na imagem para acessar o Figma.
 ## Projeto concluído no Figma
 
 Clique na imagem para acessar o Figma.
-[![Figma](/readme-img/figma-wire.png)](https://www.figma.com/file/Maziql5mSMKFoMc56Sxv5L/bikcraft-design?node-id=0%3A1)
+[![Figma](/readme-img/figma-design.png)](https://www.figma.com/file/Maziql5mSMKFoMc56Sxv5L/bikcraft-design?node-id=0%3A1)
