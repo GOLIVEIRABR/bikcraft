@@ -6,6 +6,8 @@ Este projeto foi realizado objetivando a criação de um site responsivo/adaptat
 
 A implementação foi realizada utilizando técnicas envolvendo tableless a partir da criação de grids manuais e técnicas de posicionamento envolvendo as tags position, float e outros.
 
+Uma prévisualização pode ser encontrada [aqui](https://goliveirabr.github.io/bikcraft/).
+
 ## WireFrame executado no Figma
 
 Clique na imagem para acessar o Figma.
